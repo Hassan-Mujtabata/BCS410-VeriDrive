@@ -4,6 +4,9 @@
 
 > **Course:** BCS 410 · **Region:** UAE (Dubizzle) · **Voice agent:** "Vera"
 
+**Created by Hassan Mujtaba, Hans Misquitta, and Izaan Shaikh.**
+© 2026 Hassan Mujtaba. Licensed under the [MIT License](LICENSE). The copyright notice and license must be kept in all copies and substantial portions of this project.
+
 ---
 
 ## Table of Contents
@@ -16,6 +19,7 @@
 - [Getting started](#getting-started)
 - [Environment variables](#environment-variables)
 - [Team](#team)
+- [License & attribution](#license--attribution)
 
 ---
 
@@ -280,7 +284,21 @@ Create a `.env` in the project root (git-ignored). Never commit real keys.
 
 ## Team
 
-_To be added._
+Built by students of Canadian University Dubai (CUD) for BCS 410.
+
+| Name | Role |
+|------|------|
+| **Hassan Mujtaba** | Developer |
+| **Hans Misquitta** | Developer |
+| **Izaan Shaikh** | Developer |
+
+---
+
+## License & attribution
+
+Copyright (c) 2026 Hassan Mujtaba.
+
+This project is released under the [MIT License](LICENSE). You are free to use, modify, and distribute it, as long as the copyright notice and license text are kept in all copies or substantial portions of the software. If you use or list this project, please credit **Hassan Mujtaba** as the original author.
 
 ---
 
